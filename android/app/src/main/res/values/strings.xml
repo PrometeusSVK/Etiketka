@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Etiketka</string>
+    <string name="title_activity_main">Etiketka</string>
+    <string name="package_name">sk.stitok.etiketka</string>
+    <string name="custom_url_scheme">sk.stitok.etiketka</string>
+</resources>
